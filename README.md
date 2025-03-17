@@ -5,7 +5,7 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 ## Funcionalidades ⚙️
 
 - ✍️ **Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** para agregarlos a la lista.
- 
+
 - ❗ **Validación de entrada:** Si el campo de texto está vacío, el sistema mostrará un mensaje de error solicitando un nombre válido.
 
 - 👀 **Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
@@ -23,14 +23,16 @@ No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúra
 ### Instalación 🔧
 
 1. Clona el repositorio en tu máquina local:
-    ```bash
-    git clone 
-    ```
+
+   ```bash
+   git clone https://github.com/ruthchoqueramos/challenge-amigo-secreto.git
+   ```
 
 2. Navega al directorio del proyecto:
-    ```bash
-    cd challenge-amigo-secreto
-    ```
+
+   ```bash
+   cd challenge-amigo-secreto
+   ```
 
 3. Abre el archivo `index.html` en tu navegador favorito para empezar a usar la aplicación.
 
@@ -43,4 +45,3 @@ Este proyecto no requiere ninguna instalación adicional. Simplemente abre el ar
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Para la estructura y diseño de la página.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Para los estilos visuales.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Para la lógica de la aplicación (agregar nombres, realizar el sorteo, etc.).
-
